@@ -103,9 +103,6 @@ Step 5: Admin tracks inquiries and generates reports ```
 ##Contributing
 We welcome contributions to enhance this project! If you'd like to contribute:
 
-Contributing 🤝
-I welcome contributions from anyone who wants to improve the solutions, provide alternative approaches, or add new problems. Please follow these steps to contribute:
-
 Fork the repository.
 Create a new branch (git checkout -b feature/your-feature-name).
 Make your changes and commit them (git commit -m 'Add some feature').
