@@ -1,7 +1,5 @@
 # Old-Age-Home-Management-System
 
-# Old Age Home Management System (Using PHP & MySQLi)
-
 ### Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
@@ -66,7 +64,7 @@ This project aims to improve the operational efficiency of old age homes and pro
     - Import the provided SQL file (`database.sql`) from the `db` folder.
 6. Update the database connection details in the `config.php` file to match your local setup:
     ```php
-    $servername = "localhost";
+    $servername = "localhost:3307";
     $username = "root";
     $password = "";
     $dbname = "oahms_db";
@@ -114,6 +112,6 @@ Make your changes and commit them (git commit -m 'Add some feature').
 Push to the branch (git push origin feature/your-feature-name).
 Create a new Pull Request.
 
---------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 Let's build something amazing together!
